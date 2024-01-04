@@ -26,7 +26,7 @@ else:
     st.error('Error: End date must fall after start date.')
 
 #DF
-df = pd.read_csv('result/sebaraniqpivot.csv')
+#df = pd.read_csv('result/sebaraniqpivot.csv')
 ##################################################################################
 
 #Slide2
