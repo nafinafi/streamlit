@@ -45,7 +45,7 @@ edited_df = st.data_editor(dfsimpulan, hide_index=True)
 
 #Slide4
 st.header("Sebaran IQ")
-st.bar_chart(df)
+#st.bar_chart(df)
 
 #Slide5
 dfakhlakp3k = pd.DataFrame(
